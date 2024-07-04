@@ -1,2 +1,2 @@
 # recursion_c-
-This is a repo for recursion questions and their solution
+This is a repo for recursion in C++ questions and their solution
